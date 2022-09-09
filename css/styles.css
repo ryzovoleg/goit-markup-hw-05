@@ -616,7 +616,7 @@
   }
 
   .project-link:hover .project-overlay,
-  .project-link:focus .project-overlay{
+  .project-link:focus .project-overlay {
     transform: translateY(0);
   }
 
